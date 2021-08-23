@@ -1,2 +1,2 @@
 # EtsyScraper
-Etsy.com price scraper vie product urls.
+Etsy.com price scraper via product urls.
