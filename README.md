@@ -3,7 +3,7 @@ Etsy.com price scraper vie product urls.
 
 
 
-#Instructions
+# Instructions
 
 To run the back-end, clone the rest api folder then start the server by typing node index.js(That process will activate the node server)
 
